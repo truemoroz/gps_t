@@ -31,6 +31,6 @@
         "@coreui/vue-chartjs": "^1.0.3",
         "chart.js": "^2.9.3",
         "vue-chartjs": "^3.5.0",
-        "vuetify": "^2.2.20"
+        "vuetify": "^2.6.10"
     }
 }
